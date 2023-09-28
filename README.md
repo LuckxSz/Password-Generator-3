@@ -7,7 +7,7 @@
 
 
 > **If the video has an error, reload the page!**<br>
-> Access the online project here  **[AQUI](  https://luckxsz.github.io/Password-Generator/)**
+> Access the online project here  **[AQUI](  https://luckxsz.github.io/Password-Generator-3/)**
 
 
 ## 🤓Technologies Used
